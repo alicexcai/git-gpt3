@@ -1,6 +1,9 @@
 script.bash
 ./script    
 script
+/script.bash
+/script
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
