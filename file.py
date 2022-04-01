@@ -1,7 +1,7 @@
 # This is a test python file.
 
 def print_text(text):
-    print(text)
+    print(text[0])
 return
 
-print_text("Goodbye world")
+print_text("Hello world")
