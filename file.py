@@ -1,3 +1,7 @@
 # This is a test python file.
 
-print("Hello world")
+def print_helloworld():
+    print("Hello world")
+return
+
+print_helloworld()
