@@ -1,3 +1,1 @@
-# comment
-
-print("Hello world")
+# This is an empty python file.
