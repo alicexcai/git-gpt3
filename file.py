@@ -1,7 +1,1 @@
-def print(text):
-    print(text)
-    return
-
-print("Hello world")
-
-
+# This is a function.
