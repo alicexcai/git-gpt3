@@ -4,4 +4,4 @@ def print_text(text):
     print(text)
 return
 
-print_text("Hello world")
+print_text("Goodbye world")
